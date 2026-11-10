@@ -1,0 +1,11 @@
+Metric,Segment,Year,Value,Unit,Notes
+Thailand population aged 60+,National,2024,20.0,percent,Illustrative planning assumption; validate with official statistics
+Thailand population aged 60+,National,2025,20.5,percent,Illustrative planning assumption; validate with official statistics
+Target serviceable households,Urban pilot,2026,12000,households,Illustrative market sizing input
+Residential care monthly fee,Residential,2026,28000,THB per resident,Illustrative pricing assumption
+Day care monthly fee,Day care,2026,9500,THB per member,Illustrative pricing assumption
+Home care monthly fee,Home care,2026,14500,THB per client,Illustrative pricing assumption
+Year 1 occupancy,Residential,2026,0.55,ratio,Illustrative operating assumption
+Year 2 occupancy,Residential,2027,0.65,ratio,Illustrative operating assumption
+Year 3 occupancy,Residential,2028,0.72,ratio,Illustrative operating assumption
+Annual market growth,Planning assumption,2026,0.20,ratio,Illustrative scenario assumption; not a sourced forecast
