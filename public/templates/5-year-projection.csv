@@ -1,0 +1,10 @@
+Financial line item,Year 1,Year 2,Year 3,Year 4,Year 5
+Revenue,10000000,=B2*(1+10%),=C2*(1+10%),=D2*(1+10%),=E2*(1+10%)
+Revenue growth,,=C2/B2-1,=D2/C2-1,=E2/D2-1,=F2/E2-1
+Cost of goods sold,=B2*45%,=C2*45%,=D2*45%,=E2*45%,=F2*45%
+Gross profit,=B2-B4,=C2-C4,=D2-D4,=E2-E4,=F2-F4
+Operating expenses,=B2*25%,=C2*25%,=D2*25%,=E2*25%,=F2*25%
+EBITDA,=B5-B6,=C5-C6,=D5-D6,=E5-E6,=F5-F6
+Depreciation and amortization,500000,550000,600000,650000,700000
+EBIT,=B7-B8,=C7-C8,=D7-D8,=E7-E8,=F7-F8
+Tax rate,20%,20%,20%,20%,20%
