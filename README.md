@@ -18,6 +18,13 @@ npm run build
 npm run preview
 ```
 
+## Learning experience
+
+- `Finance learning lab` adds an interactive Intermediate-level CVP exercise for the Mango Bomb case.
+- Learners calculate contribution margin, break-even volume, and the sales volume required for a target operating profit.
+- Each task provides immediate answer checking, a worked formula explanation, a simple score, and a reset action.
+- Current exercise state is browser-session UI state only; accounts, saved progress, server-side grading, and automated report generation are not implemented yet.
+
 ## Project structure
 
 - `src/App.jsx` — page layout, case studies, download actions and toast feedback
