@@ -1,0 +1,16 @@
+Item,Category,Assumption,Unit,Notes
+Land lease,Initial investment,4500000,THB,Illustrative estimate
+Building and civil works,CAPEX,18000000,THB,Illustrative estimate
+Refrigeration system,CAPEX,14500000,THB,Illustrative estimate
+Material handling,CAPEX,4200000,THB,Illustrative estimate
+Pre-operating expenses,CAPEX,1800000,THB,Illustrative estimate
+Total project CAPEX,CAPEX,43000000,THB,Sum of initial investment assumptions
+Annual storage capacity,Operations,6000,tonnes,Illustrative design capacity
+Utilization year 1,Revenue driver,0.55,ratio,Base case
+Average service fee,Revenue driver,1450,THB per tonne,Illustrative blended fee
+Electricity and utilities,OPEX,5200000,THB per year,Illustrative annual cost
+Staff and administration,OPEX,2400000,THB per year,Illustrative annual cost
+Maintenance,OPEX,1100000,THB per year,Illustrative annual cost
+Tax rate,Model assumption,0.20,ratio,Illustrative corporate tax assumption
+WACC,Discount rate,0.094,ratio,Illustrative discount rate
+Project life,Model assumption,15,years,Illustrative forecast horizon
