@@ -51,7 +51,7 @@ function App(){
    <div className="nav-links"><button onClick={()=>scrollTo('work')}>Case studies</button><button onClick={()=>scrollTo('toolkit')}>Toolkits</button><button onClick={()=>scrollTo('learning-lab')}>Practice lab</button><a href="https://github.com/teanchai42752-cmyk/hadhed" target="_blank" rel="noreferrer">GitHub <ArrowUpRight size={13}/></a></div>
    <button className="nav-cta" onClick={()=>scrollTo('work')}>Explore projects <ArrowUpRight size={15}/></button>
    <button className="mobile-toggle" onClick={()=>setMobileOpen(!mobileOpen)} aria-label="Toggle menu">{mobileOpen?<X/>:<Menu/>}</button>
-  </nav>{mobileOpen&&<div className="mobile-menu"><button onClick={()=>scrollTo('work')}>Case studies</button><button onClick={()=>scrollTo('toolkit')}>Toolkits</button><a href="https://github.com/teanchai42752-cmyk/hadhed">GitHub</a></div>}</header>
+  </nav>{mobileOpen&&<div className="mobile-menu"><button onClick={()=>scrollTo('work')}>Case studies</button><button onClick={()=>scrollTo('toolkit')}>Toolkits</button><button onClick={()=>scrollTo('learning-lab')}>Practice lab</button><a href="https://github.com/teanchai42752-cmyk/hadhed">GitHub</a></div>}</header>
   <main>
    <section className="hero container">
     <div className="hero-copy"><div className="eyebrow"><span className="pulse"/> A PRACTICAL FINANCE PORTFOLIO <span className="eyebrow-line"/></div>
