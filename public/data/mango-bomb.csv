@@ -1,0 +1,12 @@
+Product,Metric,Value,Unit,Notes
+Mango Bomb dessert,Menu price,69,THB per serving,Illustrative selling price
+Mango Bomb dessert,Fresh mango,14,THB per serving,Variable cost
+Mango Bomb dessert,Coconut milk and cream,8,THB per serving,Variable cost
+Mango Bomb dessert,Toppings and garnish,7,THB per serving,Variable cost
+Mango Bomb dessert,Packaging,4,THB per serving,Variable cost
+Mango Bomb dessert,Other variable cost,3,THB per serving,Variable cost
+Mango Bomb dessert,Total variable cost,36,THB per serving,Sum of variable costs
+Mango Bomb dessert,Contribution margin,33,THB per serving,Price less variable cost
+Mango Bomb dessert,Monthly fixed cost,33000,THB per month,Illustrative rent labor utilities and marketing
+Mango Bomb dessert,Break-even volume,1000,servings per month,Fixed cost divided by contribution margin
+Mango Bomb dessert,Target monthly volume,1500,servings per month,Illustrative base case
